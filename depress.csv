@@ -1,0 +1,295 @@
+acuteill,age,beddays,cases,cesd,chronic,drink,educat,employ,health,id,income,marital,regdoc,relig,sex,treat,depressed,female,unemployed,alcohol
+0. no,68,0. no,0,0,1,0,2,4. retired,2. good,1,4,5. widowed,1,1,0,1,0,1,0,0
+0. no,58,0. no,0,4,1,1,4,1. full time,1. excellent,2,15,3. divorced,1,1,1,1,0,0,0,1
+0. no,45,0. no,0,4,0. no,1,3,1. full time,2. good,3,28,2. married,1,1,0,1,0,1,0,1
+0. no,50,0. no,0,5,1,0,3,3. unemployed,1. excellent,4,9,3. divorced,1,1,0,0,0,1,1,0
+1,33,1,0,6,0. no,1,3,1. full time,1. excellent,5,35,4. separated,1,1,0,1,0,1,0,1
+1,24,0. no,0,7,1,1,3,1. full time,1. excellent,6,11,2. married,1,1,1,1,0,0,0,1
+1,58,0. no,0,15,1,0,2,5. houseperson,3. fair,7,11,2. married,1,1,0,1,0,1,0,0
+1,22,0. no,0,10,0. no,0,3,1. full time,1. excellent,8,9,1. never married,0,1,1,0,0,0,0,0
+0. no,47,1,1,16,1,1,3,4. retired,4. poor,9,23,2. married,1,2,0,1,1,1,0,1
+0. no,30,0. no,0,0,0. no,1,2,1. full time,1. excellent,10,35,2. married,1,4,1,0,0,0,0,1
+0. no,20,0. no,1,18,0. no,1,2,3. unemployed,2. good,11,25,1. never married,1,4,0,0,1,1,1,1
+1,57,1,0,4,1,0,3,2. part time,2. good,12,24,2. married,1,1,0,1,0,1,0,0
+1,39,0. no,0,8,0. no,1,2,1. full time,3. fair,13,28,2. married,1,1,1,1,0,0,0,1
+1,61,0. no,0,4,0. no,1,3,4. retired,1. excellent,14,13,5. widowed,1,1,0,1,0,1,0,1
+0. no,23,0. no,0,8,0. no,1,3,1. full time,1. excellent,15,15,2. married,1,2,0,0,0,1,0,1
+0. no,21,1,1,21,1,1,2,1. full time,3. fair,16,6,1. never married,1,1,0,1,1,1,0,1
+1,23,1,1,42,0. no,1,4,1. full time,1. excellent,17,8,1. never married,0,1,0,0,1,1,0,1
+1,55,1,0,6,1,0,2,3. unemployed,3. fair,18,19,4. separated,1,1,0,1,0,1,1,0
+1,26,1,0,0,0. no,0,6,1. full time,2. good,19,15,1. never married,0,1,0,0,0,1,0,0
+0. no,64,0. no,0,3,0. no,1,2,4. retired,2. good,20,9,5. widowed,1,4,1,0,0,0,0,1
+0. no,44,0. no,0,3,1,1,3,1. full time,1. excellent,21,6,1. never married,1,2,0,1,0,1,0,1
+1,25,0. no,0,4,1,1,3,1. full time,2. good,22,35,2. married,1,1,0,1,0,1,0,1
+0. no,72,0. no,0,2,1,1,3,4. retired,2. good,23,7,5. widowed,1,2,0,1,0,1,0,1
+0. no,61,0. no,0,4,1,0,3,1. full time,3. fair,24,19,2. married,1,2,0,1,0,1,0,0
+0. no,43,0. no,0,10,1,0,3,1. full time,3. fair,25,6,3. divorced,1,1,0,1,0,1,0,0
+0. no,52,0. no,0,12,0. no,1,2,5. houseperson,3. fair,26,19,2. married,1,2,0,1,0,1,0,1
+1,23,0. no,0,6,0. no,0,3,5. houseperson,2. good,27,13,2. married,1,1,0,0,0,1,0,0
+0. no,73,0. no,0,9,1,1,2,4. retired,3. fair,28,5,4. separated,1,2,1,1,0,0,0,1
+0. no,34,0. no,1,28,0. no,1,3,2. part time,2. good,29,19,2. married,1,2,0,0,1,1,0,1
+0. no,34,0. no,0,1,1,1,3,1. full time,2. good,30,20,2. married,1,1,0,0,0,1,0,1
+1,47,0. no,0,7,1,1,5,1. full time,2. good,31,19,5. widowed,1,4,1,1,0,0,0,1
+1,31,1,0,11,0. no,1,4,1. full time,2. good,32,45,2. married,0,4,0,1,0,1,0,1
+1,60,1,0,8,1,1,3,1. full time,2. good,33,35,2. married,1,1,1,1,0,0,0,1
+0. no,35,0. no,0,10,0. no,0,3,5. houseperson,1. excellent,34,23,2. married,1,1,0,0,0,1,0,0
+0. no,56,0. no,0,1,0. no,1,3,2. part time,1. excellent,35,23,2. married,1,1,0,0,0,1,0,1
+0. no,40,0. no,0,4,0. no,1,3,1. full time,1. excellent,36,15,2. married,1,1,1,0,0,0,0,1
+1,33,0. no,0,6,1,1,4,1. full time,2. good,37,19,2. married,1,4,0,1,0,1,0,1
+0. no,35,1,1,18,1,1,2,1. full time,3. fair,38,15,2. married,1,2,0,1,1,1,0,1
+0. no,59,0. no,0,0,0. no,1,2,1. full time,2. good,39,23,2. married,1,4,1,0,0,0,0,1
+0. no,42,0. no,0,2,0. no,1,5,1. full time,1. excellent,40,23,3. divorced,1,4,1,0,0,0,0,1
+0. no,19,0. no,0,7,0. no,1,3,1. full time,1. excellent,41,11,1. never married,0,4,1,0,0,0,0,1
+0. no,32,0. no,0,5,0. no,1,7,1. full time,2. good,42,23,2. married,1,4,1,0,0,0,0,1
+1,47,1,0,9,0. no,1,6,1. full time,1. excellent,43,55,2. married,1,1,0,1,0,1,0,1
+0. no,51,0. no,0,9,1,1,4,2. part time,3. fair,44,28,2. married,1,1,1,1,0,0,0,1
+0. no,66,0. no,0,0,1,1,3,4. retired,1. excellent,45,23,2. married,1,4,0,0,0,1,0,1
+1,53,0. no,0,2,1,1,2,1. full time,2. good,46,9,5. widowed,0,1,0,0,0,1,0,1
+1,32,0. no,1,24,0. no,1,3,2. part time,1. excellent,47,35,2. married,1,1,0,1,1,1,0,1
+0. no,55,0. no,0,13,0. no,1,5,1. full time,2. good,48,35,2. married,1,1,1,0,0,0,0,1
+0. no,56,0. no,0,12,1,1,6,1. full time,1. excellent,49,55,2. married,1,4,0,1,0,1,0,1
+0. no,30,1,0,9,1,0,4,7. other,3. fair,50,11,3. divorced,1,4,0,1,0,1,0,0
+0. no,77,0. no,0,5,1,1,2,4. retired,2. good,51,5,3. divorced,1,4,1,0,0,0,0,1
+0. no,24,0. no,0,10,0. no,1,4,2. part time,2. good,52,28,1. never married,1,2,0,0,0,1,0,1
+0. no,37,0. no,0,8,0. no,1,4,1. full time,1. excellent,53,5,3. divorced,1,1,0,0,0,1,0,1
+0. no,81,0. no,0,0,1,1,2,4. retired,3. fair,54,7,2. married,1,1,1,1,0,0,0,1
+0. no,66,0. no,0,8,1,1,2,4. retired,3. fair,55,23,2. married,1,1,0,1,0,1,0,1
+1,26,0. no,0,14,0. no,1,5,2. part time,2. good,56,6,1. never married,1,4,0,1,0,1,0,1
+0. no,48,0. no,0,0,0. no,0,2,1. full time,1. excellent,57,20,2. married,1,1,0,0,0,1,0,0
+0. no,55,0. no,1,40,0. no,0,3,5. houseperson,3. fair,58,23,2. married,1,1,0,1,1,1,0,0
+1,59,1,1,18,1,0,2,5. houseperson,4. poor,59,15,2. married,1,1,0,1,1,1,0,0
+0. no,20,0. no,1,26,0. no,1,3,1. full time,2. good,60,28,1. never married,1,4,1,0,1,0,0,1
+1,68,0. no,0,12,0. no,1,3,4. retired,2. good,61,6,3. divorced,1,1,0,0,0,1,0,1
+0. no,65,0. no,0,8,1,1,4,4. retired,2. good,62,35,2. married,1,1,1,1,0,0,0,1
+0. no,34,0. no,0,7,1,1,3,1. full time,1. excellent,63,23,2. married,1,2,1,0,0,0,0,1
+1,58,1,0,9,1,1,1,1. full time,4. poor,64,8,2. married,0,2,1,1,0,0,0,1
+0. no,60,0. no,0,5,1,0,2,1. full time,1. excellent,65,9,4. separated,1,1,0,1,0,1,0,0
+0. no,34,0. no,0,0,0. no,0,4,1. full time,1. excellent,66,28,3. divorced,1,3,0,0,0,1,0,0
+0. no,68,0. no,0,1,0. no,0,3,2. part time,2. good,67,11,5. widowed,1,3,0,0,0,1,0,0
+0. no,40,0. no,1,21,0. no,1,7,1. full time,2. good,68,45,3. divorced,0,2,1,1,1,0,0,1
+1,46,1,1,16,1,1,4,1. full time,4. poor,69,19,5. widowed,1,2,1,0,1,0,0,1
+1,70,1,0,3,1,1,4,4. retired,2. good,70,4,5. widowed,1,1,0,1,0,1,0,1
+0. no,34,0. no,0,1,0. no,1,4,1. full time,1. excellent,71,45,1. never married,1,1,0,0,0,1,0,1
+0. no,24,0. no,0,7,0. no,1,5,1. full time,1. excellent,72,13,2. married,0,4,0,0,0,1,0,1
+1,32,1,1,42,1,0,2,3. unemployed,3. fair,73,2,3. divorced,0,4,1,1,1,0,1,0
+1,26,0. no,1,18,0. no,1,5,3. unemployed,1. excellent,74,7,1. never married,0,4,1,0,1,0,1,1
+0. no,65,0. no,0,1,0. no,1,3,2. part time,2. good,75,12,5. widowed,1,3,0,0,0,1,0,1
+1,71,1,1,17,1,1,3,3. unemployed,2. good,76,12,5. widowed,1,3,0,1,1,1,1,1
+1,20,1,0,5,0. no,1,3,1. full time,1. excellent,77,65,1. never married,1,3,1,0,0,0,0,1
+0. no,70,0. no,0,5,1,1,2,4. retired,2. good,78,7,3. divorced,1,4,1,0,0,0,0,1
+0. no,83,0. no,0,0,0. no,0,2,2. part time,2. good,79,11,2. married,1,1,1,0,0,0,0,0
+0. no,75,0. no,1,26,0. no,1,2,5. houseperson,1. excellent,80,7,5. widowed,1,1,0,0,1,1,0,1
+0. no,67,1,0,8,1,0,2,4. retired,4. poor,81,5,4. separated,1,1,0,1,0,1,0,0
+0. no,24,0. no,0,7,0. no,1,2,3. unemployed,1. excellent,82,4,3. divorced,1,1,0,0,0,1,1,1
+0. no,71,0. no,0,14,1,1,2,4. retired,2. good,83,7,2. married,1,3,0,1,0,1,0,1
+0. no,66,0. no,0,8,0. no,1,3,2. part time,2. good,84,13,5. widowed,1,3,0,1,0,1,0,1
+0. no,59,0. no,0,0,1,0,6,1. full time,2. good,85,35,2. married,1,1,1,1,0,0,0,0
+0. no,48,0. no,0,2,0. no,0,5,1. full time,1. excellent,86,35,2. married,1,1,1,0,0,0,0,0
+0. no,65,1,0,7,0. no,1,3,2. part time,1. excellent,87,11,3. divorced,1,2,0,1,0,1,0,1
+1,43,1,0,4,0. no,1,7,1. full time,1. excellent,88,13,1. never married,0,1,0,0,0,1,0,1
+1,38,0. no,0,5,0. no,1,3,1. full time,2. good,89,28,2. married,1,1,1,0,0,0,0,1
+0. no,22,0. no,0,4,0. no,1,3,3. unemployed,2. good,90,19,1. never married,0,1,0,0,0,1,1,1
+0. no,22,0. no,0,13,0. no,1,2,3. unemployed,3. fair,91,2,1. never married,1,4,1,0,0,0,1,1
+0. no,23,0. no,0,6,0. no,0,4,1. full time,1. excellent,92,8,1. never married,1,1,1,0,0,0,0,0
+1,59,0. no,0,8,1,1,4,1. full time,1. excellent,93,15,2. married,1,1,0,1,0,1,0,1
+0. no,65,0. no,0,3,0. no,1,2,5. houseperson,2. good,94,19,2. married,1,1,0,0,0,1,0,1
+0. no,21,0. no,0,9,0. no,1,5,2. part time,2. good,95,65,1. never married,1,3,0,0,0,1,0,1
+0. no,82,0. no,0,2,1,1,2,4. retired,2. good,96,7,5. widowed,1,1,0,1,0,1,0,1
+1,54,1,0,12,1,1,4,1. full time,3. fair,97,8,4. separated,1,1,0,1,0,1,0,1
+0. no,64,0. no,0,5,0. no,1,3,2. part time,2. good,98,4,2. married,1,2,1,1,0,0,0,1
+0. no,72,0. no,1,25,0. no,1,2,4. retired,2. good,99,11,5. widowed,1,1,1,1,1,0,0,1
+0. no,52,0. no,0,0,1,1,5,1. full time,1. excellent,100,45,2. married,1,3,1,1,0,0,0,1
+0. no,22,0. no,0,5,1,0,5,1. full time,1. excellent,101,19,1. never married,1,1,0,0,0,1,0,0
+0. no,21,0. no,0,6,1,1,3,1. full time,2. good,102,8,1. never married,1,1,0,0,0,1,0,1
+0. no,37,0. no,0,8,1,1,6,1. full time,2. good,103,65,3. divorced,1,4,1,1,0,0,0,1
+0. no,60,1,1,17,1,1,3,2. part time,3. fair,104,35,2. married,1,3,0,1,1,1,0,1
+0. no,32,1,0,15,0. no,1,5,1. full time,1. excellent,105,35,3. divorced,1,3,1,1,0,0,0,1
+0. no,27,0. no,1,16,0. no,1,3,1. full time,2. good,106,13,1. never married,0,1,0,0,1,1,0,1
+1,28,1,0,14,0. no,1,6,1. full time,1. excellent,107,7,4. separated,0,2,0,0,0,1,0,1
+1,24,1,0,13,1,1,5,1. full time,2. good,108,18,1. never married,0,4,0,0,0,1,0,1
+1,20,0. no,0,8,0. no,1,4,2. part time,2. good,109,23,1. never married,1,3,1,0,0,0,0,1
+0. no,18,1,0,6,1,1,2,2. part time,2. good,110,27,1. never married,1,4,1,0,0,0,0,1
+0. no,24,1,1,19,1,1,3,6. in school,1. excellent,111,9,1. never married,1,4,0,0,1,1,0,1
+0. no,79,0. no,1,22,1,1,3,4. retired,4. poor,112,15,2. married,1,1,0,0,1,1,0,1
+0. no,50,0. no,1,17,1,1,5,1. full time,2. good,113,23,1. never married,1,3,0,1,1,1,0,1
+0. no,51,0. no,1,31,1,0,2,5. houseperson,2. good,114,2,1. never married,1,4,0,1,1,1,0,0
+0. no,50,1,0,10,0. no,1,7,1. full time,2. good,115,23,3. divorced,1,2,1,0,0,0,0,1
+0. no,62,0. no,0,7,1,1,5,1. full time,1. excellent,116,19,1. never married,1,1,0,1,0,1,0,1
+0. no,41,1,1,22,1,0,5,1. full time,2. good,117,15,1. never married,1,3,0,0,1,1,0,0
+1,28,1,0,3,0. no,1,5,2. part time,1. excellent,118,15,1. never married,1,1,0,0,0,1,0,1
+0. no,81,0. no,0,6,0. no,1,5,4. retired,2. good,119,8,1. never married,1,2,0,1,0,1,0,1
+0. no,70,0. no,0,0,0. no,1,2,5. houseperson,2. good,120,9,2. married,1,1,0,0,0,1,0,1
+1,62,1,0,6,1,1,3,1. full time,3. fair,121,65,2. married,1,4,1,1,0,0,0,1
+0. no,83,0. no,0,12,1,1,3,4. retired,2. good,122,9,5. widowed,1,3,0,1,0,1,0,1
+0. no,46,0. no,0,6,0. no,1,5,3. unemployed,1. excellent,123,19,2. married,1,2,1,0,0,0,1,1
+1,18,1,1,39,1,1,2,3. unemployed,3. fair,124,2,2. married,0,3,0,1,1,1,1,1
+1,25,0. no,1,29,0. no,1,2,2. part time,1. excellent,125,4,1. never married,0,3,0,0,1,1,0,1
+0. no,78,0. no,1,19,1,0,3,4. retired,2. good,126,9,5. widowed,1,3,0,1,1,1,0,0
+1,71,0. no,0,13,1,1,4,5. houseperson,3. fair,127,7,5. widowed,1,3,0,1,0,1,0,1
+0. no,73,0. no,0,9,1,0,4,4. retired,4. poor,128,9,2. married,1,1,1,1,0,0,0,0
+1,60,1,0,10,1,1,6,1. full time,2. good,129,15,1. never married,1,4,1,1,0,0,0,1
+0. no,60,0. no,0,6,1,0,3,1. full time,2. good,130,15,1. never married,1,1,1,0,0,0,0,0
+1,42,1,1,21,1,1,5,1. full time,1. excellent,131,19,3. divorced,0,4,0,1,1,1,0,1
+0. no,51,1,1,29,1,1,3,2. part time,2. good,132,11,1. never married,0,1,0,1,1,1,0,1
+0. no,78,0. no,0,0,1,1,1,4. retired,1. excellent,133,7,5. widowed,1,4,1,1,0,0,0,1
+0. no,34,0. no,0,11,1,1,4,1. full time,1. excellent,134,8,1. never married,0,2,0,1,0,1,0,1
+0. no,33,0. no,0,1,1,1,5,1. full time,1. excellent,135,13,3. divorced,0,4,0,1,0,1,0,1
+1,48,0. no,0,1,1,1,3,2. part time,1. excellent,136,35,2. married,1,1,1,0,0,0,0,1
+0. no,22,0. no,0,4,0. no,1,3,1. full time,1. excellent,137,15,2. married,1,4,1,0,0,0,0,1
+1,34,0. no,0,3,1,1,6,1. full time,1. excellent,138,45,2. married,1,4,0,1,0,1,0,1
+0. no,29,0. no,0,3,1,1,5,1. full time,1. excellent,139,45,3. divorced,0,2,1,1,0,0,0,1
+0. no,26,0. no,1,22,0. no,1,5,1. full time,1. excellent,140,2,1. never married,1,1,1,1,1,0,0,1
+1,24,1,0,7,1,1,3,1. full time,2. good,141,9,1. never married,1,1,0,1,0,1,0,1
+1,27,0. no,1,20,1,1,4,1. full time,1. excellent,142,13,1. never married,1,1,0,0,1,1,0,1
+1,40,0. no,0,1,1,1,6,1. full time,1. excellent,143,45,2. married,0,1,1,0,0,0,0,1
+0. no,33,0. no,1,38,1,1,2,5. houseperson,2. good,144,20,2. married,1,4,0,1,1,1,0,1
+0. no,31,0. no,0,13,0. no,1,3,1. full time,1. excellent,145,28,2. married,0,3,1,0,0,0,0,1
+1,53,0. no,0,2,0. no,1,4,1. full time,1. excellent,146,35,3. divorced,1,2,1,1,0,0,0,1
+1,19,1,1,19,1,1,3,1. full time,1. excellent,147,11,2. married,1,1,0,1,1,1,0,1
+1,23,0. no,0,5,0. no,1,4,1. full time,1. excellent,148,9,1. never married,1,2,0,0,0,1,0,1
+0. no,27,0. no,0,9,0. no,1,3,1. full time,2. good,149,19,3. divorced,1,1,1,0,0,0,0,1
+1,57,0. no,0,2,0. no,1,3,1. full time,2. good,150,28,3. divorced,1,2,1,0,0,0,0,1
+0. no,26,0. no,1,18,1,1,4,2. part time,3. fair,151,7,4. separated,1,1,0,0,1,1,0,1
+0. no,31,0. no,0,11,1,1,3,1. full time,2. good,152,13,3. divorced,0,1,1,0,0,0,0,1
+0. no,74,1,0,10,1,0,3,4. retired,4. poor,153,5,5. widowed,0,2,0,0,0,1,0,0
+0. no,24,1,0,4,1,1,5,1. full time,2. good,154,8,1. never married,0,2,0,0,0,1,0,1
+0. no,21,0. no,0,3,0. no,1,5,1. full time,1. excellent,155,5,1. never married,1,2,0,0,0,1,0,1
+1,22,0. no,0,2,1,1,3,1. full time,2. good,156,11,1. never married,1,1,0,1,0,1,0,1
+1,28,0. no,0,3,1,1,3,1. full time,2. good,157,19,1. never married,1,1,0,1,0,1,0,1
+0. no,49,0. no,0,4,1,1,3,1. full time,2. good,158,16,1. never married,1,2,1,1,0,0,0,1
+0. no,47,0. no,0,5,1,1,5,1. full time,2. good,159,35,3. divorced,0,4,0,0,0,1,0,1
+0. no,32,0. no,0,1,0. no,0,5,1. full time,1. excellent,160,32,2. married,1,1,0,0,0,1,0,0
+1,36,1,0,1,1,1,6,1. full time,1. excellent,161,35,2. married,1,1,0,1,0,1,0,1
+0. no,45,0. no,0,1,0. no,1,5,1. full time,1. excellent,162,65,2. married,0,1,1,0,0,0,0,1
+0. no,43,0. no,0,9,0. no,1,7,2. part time,1. excellent,163,42,2. married,0,2,0,0,0,1,0,1
+0. no,22,0. no,0,0,0. no,1,3,1. full time,2. good,164,5,1. never married,1,4,0,0,0,1,0,1
+0. no,20,0. no,0,0,0. no,1,4,1. full time,1. excellent,165,36,1. never married,1,4,0,0,0,1,0,1
+0. no,36,1,0,0,0. no,1,7,1. full time,1. excellent,166,65,2. married,1,3,1,1,0,0,0,1
+0. no,59,0. no,0,3,1,1,6,2. part time,1. excellent,167,45,2. married,1,1,1,0,0,0,0,1
+0. no,57,0. no,0,0,1,0,5,2. part time,1. excellent,168,55,2. married,1,1,0,1,0,1,0,0
+1,23,0. no,0,1,0. no,0,3,1. full time,1. excellent,169,19,2. married,1,1,0,0,0,1,0,0
+0. no,74,0. no,0,6,1,0,2,4. retired,1. excellent,170,8,5. widowed,1,1,0,0,0,1,0,0
+1,29,0. no,0,0,0. no,1,3,1. full time,1. excellent,171,19,2. married,1,1,1,0,0,0,0,1
+0. no,65,0. no,0,1,1,0,2,4. retired,3. fair,172,9,2. married,1,1,0,1,0,1,0,0
+0. no,50,0. no,0,12,0. no,1,1,2. part time,1. excellent,173,5,3. divorced,0,1,1,0,0,0,0,1
+0. no,31,0. no,1,20,0. no,1,2,1. full time,1. excellent,174,19,2. married,1,1,1,0,1,0,0,1
+1,57,0. no,0,0,0. no,1,3,1. full time,3. fair,175,6,3. divorced,1,1,0,1,0,1,0,1
+0. no,70,0. no,0,5,1,1,3,4. retired,3. fair,176,4,1. never married,1,1,1,1,0,0,0,1
+0. no,25,0. no,1,21,0. no,1,3,3. unemployed,1. excellent,177,6,1. never married,0,4,0,0,1,1,1,1
+0. no,45,0. no,0,7,1,1,4,2. part time,3. fair,178,55,2. married,1,1,0,1,0,1,0,1
+0. no,36,0. no,0,7,0. no,1,5,1. full time,1. excellent,179,23,2. married,1,4,1,0,0,0,0,1
+1,25,0. no,0,15,0. no,1,3,1. full time,1. excellent,180,23,2. married,1,1,1,0,0,0,0,1
+0. no,58,0. no,0,1,0. no,1,3,1. full time,2. good,181,15,1. never married,1,2,1,1,0,0,0,1
+0. no,59,0. no,1,33,1,1,3,1. full time,3. fair,182,13,5. widowed,1,1,0,1,1,1,0,1
+1,26,0. no,0,8,1,1,3,1. full time,1. excellent,183,9,1. never married,1,1,1,1,0,0,0,1
+0. no,21,0. no,0,5,0. no,1,3,1. full time,1. excellent,184,19,1. never married,0,1,1,0,0,0,0,1
+0. no,83,0. no,0,7,1,0,2,4. retired,4. poor,185,6,5. widowed,1,4,0,1,0,1,0,0
+1,34,0. no,1,16,1,1,2,1. full time,1. excellent,186,7,3. divorced,1,4,0,1,1,1,0,1
+0. no,42,0. no,0,5,0. no,1,3,1. full time,1. excellent,187,23,2. married,1,2,1,0,0,0,0,1
+1,42,1,1,16,1,1,3,2. part time,2. good,188,7,3. divorced,1,1,0,1,1,1,0,1
+0. no,24,0. no,1,39,1,1,3,1. full time,2. good,189,13,1. never married,0,4,0,1,1,1,0,1
+0. no,80,0. no,0,9,0. no,1,2,4. retired,2. good,190,5,5. widowed,0,1,0,1,0,1,0,1
+0. no,18,1,0,8,1,1,2,1. full time,2. good,191,15,1. never married,0,2,0,1,0,1,0,1
+0. no,58,0. no,0,3,1,1,2,1. full time,2. good,192,9,5. widowed,1,1,0,1,0,1,0,1
+0. no,54,0. no,0,2,1,1,3,7. other,2. good,193,2,2. married,1,1,0,1,0,1,0,1
+0. no,47,0. no,0,1,1,1,4,5. houseperson,2. good,194,45,3. divorced,1,1,0,1,0,1,0,1
+0. no,61,0. no,0,3,0. no,1,2,1. full time,2. good,195,4,2. married,1,1,1,0,0,0,0,1
+1,18,1,0,5,0. no,1,2,6. in school,1. excellent,196,24,1. never married,1,2,1,0,0,0,0,1
+0. no,51,0. no,0,4,0. no,1,5,1. full time,1. excellent,197,45,2. married,1,1,0,0,0,1,0,1
+0. no,28,0. no,0,0,0. no,1,2,5. houseperson,1. excellent,198,9,2. married,1,2,0,0,0,1,0,1
+1,44,1,0,0,1,1,3,1. full time,2. good,199,26,2. married,1,1,1,0,0,0,0,1
+0. no,50,0. no,0,8,1,1,3,1. full time,1. excellent,200,23,2. married,1,1,0,1,0,1,0,1
+1,31,1,1,33,1,1,3,1. full time,3. fair,201,19,3. divorced,1,1,0,1,1,1,0,1
+0. no,59,0. no,0,2,0. no,0,2,1. full time,2. good,202,7,3. divorced,1,1,0,0,0,1,0,0
+0. no,33,0. no,0,2,1,0,4,1. full time,2. good,203,19,3. divorced,1,1,0,0,0,1,0,0
+0. no,26,0. no,0,1,0. no,1,3,1. full time,2. good,204,19,2. married,1,1,1,0,0,0,0,1
+0. no,58,0. no,0,3,1,1,3,1. full time,1. excellent,205,6,5. widowed,1,1,0,1,0,1,0,1
+0. no,67,0. no,0,0,1,1,3,5. houseperson,1. excellent,206,8,5. widowed,1,1,0,1,0,1,0,1
+1,49,0. no,0,0,0. no,0,3,1. full time,1. excellent,207,28,2. married,1,1,1,1,0,0,0,0
+0. no,42,0. no,0,3,0. no,1,4,1. full time,2. good,208,28,2. married,1,1,1,0,0,0,0,1
+0. no,61,0. no,0,4,0. no,1,5,1. full time,1. excellent,209,23,5. widowed,1,2,0,1,0,1,0,1
+0. no,23,1,0,13,0. no,1,2,5. houseperson,2. good,210,23,3. divorced,1,1,0,1,0,1,0,1
+1,47,1,1,31,1,0,2,7. other,3. fair,211,23,2. married,1,2,1,1,1,0,0,0
+1,32,0. no,0,0,1,1,2,5. houseperson,1. excellent,212,28,2. married,1,1,0,1,0,1,0,1
+0. no,59,0. no,0,9,1,0,2,7. other,4. poor,213,6,2. married,1,2,1,1,0,0,0,0
+0. no,25,0. no,0,4,0. no,1,3,1. full time,2. good,214,8,2. married,1,1,1,0,0,0,0,1
+0. no,74,0. no,0,0,0. no,1,1,4. retired,2. good,215,5,5. widowed,0,1,1,0,0,0,0,1
+1,30,1,0,14,1,1,3,5. houseperson,2. good,216,15,2. married,1,1,0,0,0,1,0,1
+0. no,59,0. no,0,2,1,1,3,4. retired,2. good,217,11,5. widowed,1,1,0,1,0,1,0,1
+0. no,46,0. no,0,6,1,1,3,1. full time,1. excellent,218,19,2. married,0,1,0,1,0,1,0,1
+0. no,51,0. no,0,6,1,1,3,1. full time,2. good,219,35,2. married,1,1,0,1,0,1,0,1
+0. no,25,0. no,0,3,1,0,3,1. full time,2. good,220,11,2. married,1,1,0,1,0,1,0,0
+0. no,18,0. no,0,9,0. no,1,2,2. part time,1. excellent,221,45,1. never married,1,2,0,1,0,1,0,1
+0. no,52,0. no,0,3,0. no,1,4,5. houseperson,1. excellent,222,65,2. married,1,1,0,0,0,1,0,1
+0. no,37,1,0,9,1,0,4,2. part time,4. poor,223,65,2. married,1,4,0,1,0,1,0,0
+0. no,42,0. no,0,11,1,1,4,1. full time,2. good,224,55,2. married,1,1,0,0,0,1,0,1
+0. no,43,0. no,1,29,1,1,5,5. houseperson,4. poor,225,28,2. married,1,1,0,0,1,1,0,1
+0. no,63,0. no,0,11,0. no,0,3,4. retired,1. excellent,226,13,2. married,0,1,1,0,0,0,0,0
+0. no,89,0. no,0,9,0. no,1,7,2. part time,1. excellent,227,31,5. widowed,0,1,0,0,0,1,0,1
+1,23,1,0,9,1,1,5,1. full time,2. good,228,7,1. never married,1,1,0,0,0,1,0,1
+0. no,43,0. no,0,1,0. no,1,4,1. full time,1. excellent,229,15,2. married,1,1,0,1,0,1,0,1
+0. no,60,0. no,0,10,0. no,0,4,5. houseperson,2. good,230,8,2. married,1,2,0,1,0,1,0,0
+0. no,22,0. no,0,11,0. no,0,4,2. part time,1. excellent,231,55,1. never married,0,1,1,0,0,0,0,0
+0. no,40,0. no,0,0,0. no,1,6,1. full time,1. excellent,232,45,2. married,1,4,1,0,0,0,0,1
+0. no,42,0. no,0,1,0. no,1,4,2. part time,1. excellent,233,35,2. married,1,1,0,0,0,1,0,1
+0. no,19,0. no,0,5,0. no,1,4,2. part time,1. excellent,234,65,1. never married,1,1,0,0,0,1,0,1
+0. no,30,0. no,1,28,1,1,5,1. full time,1. excellent,235,11,4. separated,0,6,0,0,1,1,0,1
+0. no,19,0. no,0,4,0. no,1,4,2. part time,2. good,236,55,1. never married,0,1,1,0,0,0,0,1
+0. no,68,0. no,0,13,1,1,3,4. retired,3. fair,237,7,2. married,0,2,0,1,0,1,0,1
+0. no,63,0. no,0,5,1,0,3,5. houseperson,3. fair,238,13,2. married,0,1,0,1,0,1,0,0
+0. no,32,0. no,0,13,1,0,3,1. full time,1. excellent,239,19,2. married,1,1,1,0,0,0,0,0
+1,57,1,0,13,1,0,3,5. houseperson,4. poor,240,45,2. married,1,1,0,1,0,1,0,0
+1,36,1,0,11,1,1,3,1. full time,1. excellent,241,45,2. married,1,1,0,1,0,1,0,1
+1,23,1,0,4,1,0,4,2. part time,1. excellent,242,37,1. never married,1,2,0,1,0,1,0,0
+0. no,36,0. no,0,7,1,1,3,1. full time,2. good,243,23,1. never married,1,3,0,1,0,1,0,1
+1,40,0. no,0,0,1,1,3,1. full time,1. excellent,244,19,3. divorced,1,1,0,1,0,1,0,1
+0. no,54,0. no,0,0,1,1,2,5. houseperson,2. good,245,7,5. widowed,1,1,0,1,0,1,0,1
+1,27,1,0,12,0. no,1,3,1. full time,1. excellent,246,15,1. never married,0,4,1,1,0,0,0,1
+0. no,49,0. no,0,4,0. no,0,3,1. full time,2. good,247,15,3. divorced,1,1,0,1,0,1,0,0
+1,69,0. no,0,3,0. no,1,3,4. retired,2. good,248,9,2. married,1,2,0,0,0,1,0,1
+0. no,35,0. no,0,1,0. no,1,3,2. part time,2. good,249,28,2. married,1,4,0,0,0,1,0,1
+0. no,60,0. no,0,7,1,1,2,1. full time,2. good,250,8,5. widowed,1,1,0,1,0,1,0,1
+0. no,70,0. no,1,21,1,1,3,2. part time,2. good,251,7,3. divorced,1,4,0,1,1,1,0,1
+0. no,83,1,0,1,1,0,3,5. houseperson,3. fair,252,9,5. widowed,1,1,0,0,0,1,0,0
+0. no,79,0. no,0,3,0. no,1,2,4. retired,2. good,253,9,5. widowed,1,2,1,0,0,0,0,1
+1,28,1,0,4,0. no,1,5,1. full time,1. excellent,254,55,1. never married,0,4,1,1,0,0,0,1
+1,29,0. no,0,6,1,1,4,1. full time,2. good,255,15,3. divorced,1,1,0,1,0,1,0,1
+1,29,1,1,22,0. no,1,5,2. part time,1. excellent,256,2,4. separated,1,2,0,0,1,1,0,1
+0. no,51,0. no,1,17,0. no,0,2,2. part time,1. excellent,257,11,2. married,0,2,0,0,1,1,0,0
+1,38,1,1,18,0. no,1,3,2. part time,2. good,258,28,2. married,1,1,0,1,1,1,0,1
+0. no,21,1,0,15,0. no,1,4,1. full time,2. good,259,13,2. married,1,4,1,0,0,0,0,1
+0. no,30,0. no,0,0,0. no,1,4,1. full time,1. excellent,260,35,2. married,0,1,1,0,0,0,0,1
+0. no,57,0. no,0,3,0. no,1,3,2. part time,1. excellent,261,15,2. married,1,1,0,1,0,1,0,1
+0. no,37,0. no,0,3,0. no,0,6,1. full time,1. excellent,262,13,2. married,0,1,1,0,0,0,0,0
+0. no,55,0. no,0,5,0. no,1,1,3. unemployed,2. good,263,13,2. married,1,6,0,0,0,1,1,1
+0. no,34,0. no,0,4,0. no,1,2,1. full time,1. excellent,264,9,3. divorced,1,1,0,0,0,1,0,1
+0. no,48,0. no,0,7,0. no,1,3,1. full time,1. excellent,265,23,3. divorced,1,4,1,0,0,0,0,1
+0. no,22,0. no,0,7,0. no,1,3,1. full time,3. fair,266,9,1. never married,0,4,1,0,0,0,0,1
+0. no,62,0. no,0,15,0. no,1,3,1. full time,1. excellent,267,15,2. married,1,3,1,0,0,0,0,1
+1,43,0. no,0,8,1,1,4,1. full time,1. excellent,268,15,3. divorced,1,3,0,1,0,1,0,1
+0. no,23,0. no,0,15,0. no,0,5,3. unemployed,1. excellent,269,23,2. married,1,4,0,0,0,1,1,0
+0. no,36,0. no,0,3,1,1,7,1. full time,1. excellent,270,65,3. divorced,1,4,1,1,0,0,0,1
+1,32,0. no,0,3,0. no,1,5,1. full time,1. excellent,271,35,2. married,1,1,0,0,0,1,0,1
+0. no,26,0. no,0,8,0. no,1,5,1. full time,1. excellent,272,13,1. never married,1,2,1,0,0,0,0,1
+0. no,20,0. no,0,12,0. no,1,3,1. full time,1. excellent,273,15,1. never married,0,3,1,0,0,0,0,1
+0. no,42,0. no,0,10,1,1,3,1. full time,4. poor,274,11,5. widowed,1,1,0,1,0,1,0,1
+0. no,35,0. no,0,8,0. no,1,4,1. full time,2. good,275,11,1. never married,1,1,1,0,0,0,0,1
+0. no,52,0. no,0,3,0. no,1,2,1. full time,1. excellent,276,8,4. separated,1,1,0,0,0,1,0,1
+0. no,77,0. no,0,0,0. no,1,3,4. retired,1. excellent,277,6,5. widowed,1,1,0,1,0,1,0,1
+0. no,32,0. no,0,14,0. no,1,5,1. full time,1. excellent,278,23,1. never married,1,2,1,0,0,0,0,1
+0. no,26,0. no,0,12,1,1,5,1. full time,3. fair,279,6,1. never married,1,4,0,0,0,1,0,1
+1,62,0. no,0,0,1,1,3,1. full time,2. good,280,35,2. married,1,1,1,1,0,0,0,1
+0. no,23,0. no,0,0,0. no,1,4,1. full time,1. excellent,281,45,1. never married,1,2,1,0,0,0,0,1
+0. no,32,0. no,0,12,1,1,5,1. full time,1. excellent,282,35,2. married,1,3,1,1,0,0,0,1
+0. no,30,0. no,0,13,1,1,3,1. full time,2. good,283,28,2. married,0,3,0,1,0,1,0,1
+0. no,83,0. no,0,0,1,0,2,5. houseperson,2. good,284,4,5. widowed,1,1,0,1,0,1,0,0
+1,37,0. no,0,10,0. no,1,4,1. full time,1. excellent,285,13,1. never married,1,4,1,1,0,0,0,1
+1,42,0. no,0,3,0. no,1,3,1. full time,1. excellent,286,35,2. married,1,2,0,1,0,1,0,1
+0. no,56,0. no,0,9,1,1,4,1. full time,2. good,287,35,2. married,1,2,1,0,0,0,0,1
+0. no,61,0. no,1,28,1,1,3,1. full time,2. good,288,28,2. married,1,4,1,1,1,0,0,1
+1,19,1,1,47,0. no,0,2,5. houseperson,1. excellent,289,28,4. separated,1,1,0,1,1,1,0,0
+0. no,49,0. no,0,0,1,1,7,1. full time,2. good,290,23,4. separated,0,3,1,1,0,0,0,1
+0. no,45,0. no,0,3,0. no,1,5,1. full time,1. excellent,291,35,2. married,1,3,1,0,0,0,0,1
+0. no,64,0. no,0,9,1,1,4,1. full time,2. good,292,55,2. married,1,3,1,0,0,0,0,1
+1,43,0. no,0,2,1,0,6,1. full time,1. excellent,293,28,3. divorced,1,1,1,0,0,0,0,0
+0. no,58,0. no,0,10,1,0,3,4. retired,3. fair,294,9,1. never married,1,1,0,1,0,1,0,0
